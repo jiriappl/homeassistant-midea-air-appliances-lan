@@ -9,7 +9,7 @@
     "@nbogojevic"
   ],
   "requirements": [
-    "midea-beautiful-air==0.9.15"
+    "git+https://github.com/jiriappl/midea-beautiful-air.git@add-deviceid"
   ],
   "after_dependencies": [
     "network",
